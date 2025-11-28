@@ -17,4 +17,4 @@ services:
       - labnet
 
 networks:
-labnet:
+  labnet:
